@@ -12,3 +12,4 @@ enum RouterType: Hashable {
     case test2
     case test3(text: String)
 }
+

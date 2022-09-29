@@ -93,10 +93,10 @@
 			children = (
 				DD2ACCC728E411550075D69C /* Main */,
 				DD2ACCC828E4115E0075D69C /* Screen */,
-				DD2ACCBF28E410770075D69C /* enum */,
-				DD2ACCC028E410850075D69C /* store */,
+				DD2ACCBF28E410770075D69C /* Enum */,
+				DD2ACCC028E410850075D69C /* Store */,
 				DD2ACCC428E410DB0075D69C /* Modifier */,
-				DD2ACCC128E4109D0075D69C /* extension */,
+				DD2ACCC128E4109D0075D69C /* Extension */,
 				DD2ACC8D28E12ED00075D69C /* Assets.xcassets */,
 				DD2ACC8F28E12ED00075D69C /* Preview Content */,
 			);
@@ -111,29 +111,29 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		DD2ACCBF28E410770075D69C /* enum */ = {
+		DD2ACCBF28E410770075D69C /* Enum */ = {
 			isa = PBXGroup;
 			children = (
 				DD2ACC9B28E2523D0075D69C /* RouterType.swift */,
 				DD2ACCA128E253AA0075D69C /* MainTabType.swift */,
 			);
-			path = enum;
+			path = Enum;
 			sourceTree = "<group>";
 		};
-		DD2ACCC028E410850075D69C /* store */ = {
+		DD2ACCC028E410850075D69C /* Store */ = {
 			isa = PBXGroup;
 			children = (
 				DD2ACCA328E40A700075D69C /* CacheStore.swift */,
 			);
-			path = store;
+			path = Store;
 			sourceTree = "<group>";
 		};
-		DD2ACCC128E4109D0075D69C /* extension */ = {
+		DD2ACCC128E4109D0075D69C /* Extension */ = {
 			isa = PBXGroup;
 			children = (
 				DD2ACCC228E410C00075D69C /* View+Modifier.swift */,
 			);
-			path = extension;
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		DD2ACCC428E410DB0075D69C /* Modifier */ = {
